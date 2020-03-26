@@ -1,8 +1,10 @@
 Toyota Corolla
-Audi R8
-Tesla
+Mercedes S500
+Kia Optima
+Mercedes S500
 BMW 3
 BMW X6
-Mercedes S500
-
-Kia Optima
+Lexus GX470
+Subaru WRX STI
+Tesla
+Audi R8
